@@ -50,6 +50,9 @@ L1=[
     "https://github.com/search?q=REPLACE_QUERY",
     "https://en.wikipedia.org/w/index.php?title=REPLACE_QUERY&redirect=no",
     "https://www.reddit.com/search/?q=REPLACE_QUERY",
+    
+    # version ------------------------V  and other keywords
+    "https://www.kernel.org/doc/html/v5.0/search.html?q=REPLACE_QUERY&check_keywords=yes&area=default"
 ]
 
 for e in L1:
