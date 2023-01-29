@@ -1,13 +1,15 @@
 see `1.py`
-
-
-
-## To add:
+To add:
 
 - LOCAL searchers (for files, etc)
 - REMOTE searchers (for the web, google, etc)
-`-----------------------------------`
 
+`SiteSpecific:`
+- github/gist
+  - Example: Insert user `loneicewolf` (or an alias that points to `loneicewolf`, like my name)
+  - `https://github.com/pulls?q=author%3Aloneicewolf`
+  - `https://github.com/issues?q=author%3Aloneicewolf`
+  
 
 `[ Remote Searchers ]`
 - os - specific Links
