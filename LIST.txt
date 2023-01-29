@@ -1,6 +1,7 @@
 ### making this as script-ready as (https://github.com/loneicewolf/RE_QUERY/blob/dev-1/scripts/py3/1.py)
 
 
+
 REPLACE_QUERY - the QUERY to search for
 REPLACE_AUTHOR - the AUTHOR to search for
 REPLACE_A - the A to search for
@@ -9,6 +10,8 @@ REPLACE_A - the A to search for
 
 -------------------
 Github
+-------------------REPLACE_AUTHOR-----------desc----------c&sort=updated
+https://github.com/REPLACE_AUTHOR?direction=desc&language=c&sort=updated&tab=stars
 
 REPLACE_AUTHOR
 https://github.com/issues?q=author%3AREPLACE_AUTHOR
