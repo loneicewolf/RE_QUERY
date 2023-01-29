@@ -7,6 +7,9 @@ REPLACE_A - the A to search for
 REPLACE_A - the A to search for
 REPLACE_A - the A to search for
 
+-------------------
+Github
+
 REPLACE_AUTHOR
 https://github.com/issues?q=author%3AREPLACE_AUTHOR
 https://github.com/issues?q=assignee%3AREPLACE_AUTHOR
@@ -19,6 +22,11 @@ https://github.com/pulls?q=review-requested%3AREPLACE_AUTHOR
 REPLACE_QUERY
 https://github.com/search?q=REPLACE_QUERY
 https://gist.github.com/search?q=REPLACE_QUERY
+--------------------
+
+REPLACE_QUERY
+https://packetstormsecurity.com/search/?q=REPLACE_QUERY
+
 
 REPLACE_QUERY
 https://stackexchange.com/search?q=REPLACE_QUERY
