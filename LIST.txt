@@ -13,6 +13,10 @@
  */
 
 
+ - webarchive, check (collections,url,...)
+
+
+
 https://web.archive.org/web/*/REPLACE_URL
 https://github.com/REPLACE_AUTHOR?direction=desc&language=c&sort=updated&tab=stars
 https://github.com/issues?q=author%3AREPLACE_AUTHOR
@@ -40,3 +44,5 @@ https://translate.google.com/?hl=en&sl=auto&tl=ja&text=REPLACE_QUERY&op=translat
 https://link.springer.com/search?query=REPLACE_QUERY&searchType=publisherSearch
 https://www.ijert.org/?s=REPLACE_QUERY
 https://www.researchgate.net/search?q=REPLACE_QUERY
+
+
