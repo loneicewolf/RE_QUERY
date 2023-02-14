@@ -1,3 +1,7 @@
+## How to use? (note this is a POC for the time being)
+#     GET https://raw.githubusercontent.com/loneicewolf/RE_QUERY/dev-1/scripts/bash/major_v1.sh >> abc.sh
+#     bash abc.sh 
+#===============================#
 # This script does a few things,
 ## it writes 2 files:
 searches_file="a.txt"
