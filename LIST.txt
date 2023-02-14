@@ -9,6 +9,8 @@ https://social.technet.microsoft.com
 https://www.tenforums.com
 
 Snippet sites/Docs
+Virustotal(..)
+alts (alternative software, diff, compare, ...)
 MS DOCS
 LKM KERNEL
 etc.
@@ -16,6 +18,14 @@ etc.
 
 
 ---
+
+- github sub articles
+-- https://github.com/search?q=awesome+REPLACE_QUERY
+-- 
+-- 
+-- 
+
+
 
 
  - web archive, check (collections,url,...)
