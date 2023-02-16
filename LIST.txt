@@ -1,35 +1,21 @@
-
 ---
 TO ADD
-
 CVE
 FORUMS ()
-https://www.dostips.com/
-https://social.technet.microsoft.com
-https://www.tenforums.com
+ https://www.dostips.com/
+ https://social.technet.microsoft.com
+ https://www.tenforums.com
 
 Snippet sites/Docs
 Virustotal(..)
 alts (alternative software, diff, compare, ...)
 MS DOCS
 LKM KERNEL
-etc.
-
-
-
 ---
 
 - github sub articles
 -- https://github.com/search?q=awesome+REPLACE_QUERY
--- 
--- 
--- 
-
-
-
-
- - web archive, check (collections,url,...)
-
+- web archive, check (collections,url,...)
 
 https://web.archive.org/web/*/REPLACE_URL
 https://github.com/REPLACE_AUTHOR?direction=desc&language=c&sort=updated&tab=stars
@@ -74,8 +60,19 @@ https://www.youtube.com/results?search_query=REPLACE_QUERY
 https://www.google.com/search?q=REPLACE_QUERY
 https://html.duckduckgo.com/html?q=REPLACE_QUERY
 
-
 https://translate.google.com/?hl=en&sl=auto&tl=ja&text=REPLACE_QUERY&op=translate
+
+
+
+--
+# REPLACE_QUERY
+https://www.sourceware.org/bugzilla/query.cgi
+https://www.sourceware.org/bugzilla/buglist.cgi?bug_status=__open__&content=REPLACE_QUERY&no_redirect=1&order=Importance&query_format=specific
+--
+
+
+
+
 
 
 
