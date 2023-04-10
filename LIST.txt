@@ -72,6 +72,7 @@ https://www.sourceware.org/bugzilla/buglist.cgi?bug_status=__open__&content=REPL
 
 
 
+https://crates.io/search?q=REPLACE_QUERY
 
 
 
