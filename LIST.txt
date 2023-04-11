@@ -54,34 +54,13 @@ https://www.quora.com/search?q=REPLACE_QUERY
 https://link.springer.com/search?query=REPLACE_QUERY&searchType=publisherSearch
 https://www.ijert.org/?s=REPLACE_QUERY
 https://www.researchgate.net/search?q=REPLACE_QUERY
-
 https://www.youtube.com/results?search_query=REPLACE_QUERY
-
 https://www.google.com/search?q=REPLACE_QUERY
 https://html.duckduckgo.com/html?q=REPLACE_QUERY
-
 https://translate.google.com/?hl=en&sl=auto&tl=ja&text=REPLACE_QUERY&op=translate
 
-
-
---
-# REPLACE_QUERY
 https://www.sourceware.org/bugzilla/query.cgi
 https://www.sourceware.org/bugzilla/buglist.cgi?bug_status=__open__&content=REPLACE_QUERY&no_redirect=1&order=Importance&query_format=specific
---
-
-
 
 https://crates.io/search?q=REPLACE_QUERY
 https://docs.rs/releases/search?query=REPLACE_QUERY
-
-
-
-
-
-
-
-
-
-
-
