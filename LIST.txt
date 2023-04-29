@@ -75,6 +75,8 @@ https://www.mdpi.com/search?q=REPLACE_QUERY&authors=&journal=&article_type=&sect
 https://www.gnu.org/cgi-bin/estseek.cgi?phrase=REPLACE_QUERY&perpage=10&attr=&order=&clip=-1&navi=0
 
 
+https://forums.raspberrypi.com/search.php?keywords=REPLACE_QUERY
+
 mechanics
 https://forums.leapmotion.com/search?q=REPLACE_QUERY
 https://www.instructables.com/search/?q=REPLACE_QUERY&projects=all
