@@ -1,3 +1,4 @@
+
 ---
 TO ADD
 CVE
@@ -69,6 +70,10 @@ https://docs.rs/releases/search?query=REPLACE_QUERY
 
 https://pubmed.ncbi.nlm.nih.gov/?term=REPLACE_QUERY
 https://www.mdpi.com/search?q=REPLACE_QUERY&authors=&journal=&article_type=&section=&special_issue=&volume=&issue=&number=&page=
+
+
+https://www.gnu.org/cgi-bin/estseek.cgi?phrase=REPLACE_QUERY&perpage=10&attr=&order=&clip=-1&navi=0
+
 
 mechanics
 https://forums.leapmotion.com/search?q=REPLACE_QUERY
