@@ -24,7 +24,6 @@ import string
 q="hello world"
 for u in L_urls:
     u_clean = u.strip(string.whitespace)
-    #print(u_clean)
     q_clean = q.replace(' ','+')
     u_clean_replaced = u_clean.replace('REPLACE_QUERY', q_clean)
     print(u_clean_replaced)
