@@ -1,0 +1,9 @@
+https://stackexchange.com/search?q=REPLACE_QUERY
+https://www.google.com/search?q=REPLACE_QUERY
+https://html.duckduckgo.com/html?q=REPLACE_QUERY
+https://gist.github.com/search?q=REPLACE_QUERY
+https://github.com/search?q=REPLACE_QUERY
+https://medium.com/search?q=REPLACE_QUERY
+https://www.youtube.com/results?search_query=REPLACE_QUERY
+https://www.quora.com/search?q=REPLACE_QUERY
+https://www.reddit.com/search/?q=REPLACE_QUERY
