@@ -1,0 +1,4 @@
+https://translate.google.com/?sl=en&tl=de&text=REPLACE_QUERY&op=translate
+https://translate.google.com/?sl=en&tl=ja&text=REPLACE_QUERY&op=translate
+https://translate.google.com/?sl=en&tl=ko&text=REPLACE_QUERY&op=translate
+https://translate.google.com/?sl=en&tl=pl&text=REPLACE_QUERY&op=translate
