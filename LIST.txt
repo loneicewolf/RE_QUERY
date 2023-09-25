@@ -78,6 +78,13 @@ https://search.arduino.cc/search?tab=&q=REPLACE_QUERY
 # wireshark
 https://ask.wireshark.org/questions/query:REPLACE_QUERY/
 
+## Art
+# Krita
+https://krita-artists.org/search?q=REPLACE_QUERY
+
+## Todo: gimp/inkscape/mypaint/etc and docs to these
+
+
 
 
 
